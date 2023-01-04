@@ -50,7 +50,7 @@ The screenshots of S3 service :
 ![S3](imgs/S3_11.png)
 ![S3](imgs/S3_12.png)
 
-The diagram of deploying process is :
+The diagram of deploying process in AWS services is :
 <hr/>
 
 ![deploy](imgs/AWS_services.png)
@@ -58,10 +58,15 @@ The diagram of deploying process is :
 ## notes :<br/> 
 -I used my Personal AWS account.
 
+# Link of front-end app :
+http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
+</br>
+
+
 ## active links for AWS services :<br/>
 - for RDS : database-1.cq0aeufcfpy2.us-east-1.rds.amazonaws.com.<br/>
 - for Elastic BeanStalk: http://udagram-env.eba-vj4mpjrn.us-east-1.elasticbeanstalk.com/ <br/>
-- for S3_bucket : http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
+- for S3_bucket: http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
 
 
 ## When running app after deploying to AWS services 

@@ -1,7 +1,7 @@
 # Hosting a Full-Stack Application
 
 # Link of front-end app :
-http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
+http://mybuckettestn.s3-website-us-east-1.amazonaws.com
 </br>
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**

@@ -59,7 +59,7 @@ The diagram of deploying process in AWS services is :
 -I used my Personal AWS account.
 
 # Link of front-end app :
-http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
+http://mybuckettestn.s3-website-us-east-1.amazonaws.com
 </br>
 
 

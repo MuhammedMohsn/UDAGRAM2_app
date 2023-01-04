@@ -31,7 +31,7 @@ The screenshots of ElasticBean Stalk:
 
 ![EB](imgs/EB_1.PNG)
 ![EB](imgs/EB_2.PNG)
-![EB](imgs/EB_3.PNG)
+![EB](imgs/EB_3.png)
 ![EB](imgs/EB_4.PNG)
 
 The screenshots of S3 service :

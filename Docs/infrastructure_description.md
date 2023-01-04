@@ -56,10 +56,18 @@ The diagram of deploying process is :
 ![deploy](imgs/AWS_services.png)
 
 ## notes :<br/> 
-- I created 2 S3_buckets whose names are mybuckettestnn ,mybuckettestn;the first one for deploying with circleci, the second one for deploying without circleci.
 -I used my Personal AWS account.
 
 ## active links for AWS services :<br/>
 - for RDS : database-1.cq0aeufcfpy2.us-east-1.rds.amazonaws.com.<br/>
 - for Elastic BeanStalk: http://udagram-env.eba-vj4mpjrn.us-east-1.elasticbeanstalk.com/ <br/>
 - for S3_bucket : http://mybuckettestn.s3-website-us-east-1.amazonaws.com/home
+
+
+## When running app after deploying to AWS services 
+![App](imgs/app_1.PNG)
+
+![App](imgs/app_2.PNG)
+
+![App](imgs/app_3.PNG)
+

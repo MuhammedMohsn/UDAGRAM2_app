@@ -8,21 +8,21 @@ The used services are :
 <hr/>
 
 The screenshots of RDS are :
-![RDS](imgs/RDS_1.PNG)
-![RDS](imgs/RDS_2.PNG)
-![RDS](imgs/RDS_3.PNG)
-![RDS](imgs/RDS_4.PNG)
-![RDS](imgs/RDS_5.PNG)
-![RDS](imgs/RDS_6.PNG)
-![RDS](imgs/RDS_7.PNG)
-![RDS](imgs/RDS_8.PNG)
-![RDS](imgs/RDS_9.PNG)
-![RDS](imgs/RDS_10.PNG)
-![RDS](imgs/RDS_11.PNG)
-![RDS](imgs/RDS_12.PNG)
-![RDS](imgs/RDS_13.PNG)
-![RDS](imgs/RDS_14.PNG)
-![RDS](imgs/RDS_15.PNG)
+![RDS](imgs/RDS_1.png)
+![RDS](imgs/RDS_2.png)
+![RDS](imgs/RDS_3.png)
+![RDS](imgs/RDS_4.png)
+![RDS](imgs/RDS_5.png)
+![RDS](imgs/RDS_6.png)
+![RDS](imgs/RDS_7.png)
+![RDS](imgs/RDS_8.png)
+![RDS](imgs/RDS_9.png)
+![RDS](imgs/RDS_10.png)
+![RDS](imgs/RDS_11.png)
+![RDS](imgs/RDS_12.png)
+![RDS](imgs/RDS_13.png)
+![RDS](imgs/RDS_14.png)
+![RDS](imgs/RDS_15.png)
 
 
 
@@ -37,18 +37,18 @@ The screenshots of ElasticBean Stalk:
 The screenshots of S3 service :
 <hr/>
 
-![S3](imgs/S3_1.PNG)
-![S3](imgs/S3_2.PNG)
-![S3](imgs/S3_3.PNG)
-![S3](imgs/S3_4.PNG)
-![S3](imgs/S3_5.PNG)
+![S3](imgs/S3_1.png)
+![S3](imgs/S3_2.png)
+![S3](imgs/S3_3.png)
+![S3](imgs/S3_4.png)
+![S3](imgs/S3_5.png)
 ![S3](imgs/S3_6.JPG)
-![S3](imgs/S3_7.PNG)
-![S3](imgs/S3_8.PNG)
-![S3](imgs/S3_9.PNG)
-![S3](imgs/S3_10.PNG)
-![S3](imgs/S3_11.PNG)
-![S3](imgs/S3_12.PNG)
+![S3](imgs/S3_7.png)
+![S3](imgs/S3_8.png)
+![S3](imgs/S3_9.png)
+![S3](imgs/S3_10.png)
+![S3](imgs/S3_11.png)
+![S3](imgs/S3_12.png)
 
 The diagram of deploying process is :
 <hr/>
@@ -65,9 +65,9 @@ The diagram of deploying process is :
 
 
 ## When running app after deploying to AWS services 
-![App](imgs/app_1.PNG)
+![App](imgs/app_1.png)
 
-![App](imgs/app_2.PNG)
+![App](imgs/app_2.png)
 
-![App](imgs/app_3.PNG)
+![App](imgs/app_3.png)
 

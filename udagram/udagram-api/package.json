@@ -10,7 +10,7 @@
     "prod": "npx tsc && node ./www/server.js",
     "clean-windows": "rd /s /q www\\ || (exit 0)",
     "clean-linux":"rm -rf www/ || true",
-    "deploy": "npm run build && eb list && eb use udagram-env && eb deploy udagram-env",
+    "deploy": "npm run build && eb list && eb use udagram-env && eb setenv POSTGRES_USERNAME=postgres POSTGRES_PASSWORD=yugiohpower1 POSTGRES_DB=postgres POSTGRES_HOST=database-1.cq0aeufcfpy2.us-east-1.rds.amazonaws.com PORT_DB=5432 AWS_REGION=us-east-1 AWS_BUCKET=mybuckettestn JWT_SECRET=asdf AWS_ACCESS_KEY_ID=AKIATCM2P3UKHEJXMRN6 AWS_SECRET_ACCESS_KEY=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 && eb deploy udagram-env",
     "build":  "npm install && npm run clean-linux && tsc && cp -rf src/config www/config && cp -R .elasticbeanstalk www/.elasticbeanstalk && cp .npmrc www/.npmrc && cp package.json www/package.json && cd www && zip -r Archive.zip . && cd ..",
     "build-windows":"npm install && npm run clean-windows && tsc && copy src\\config www\\config && copy .elasticbeanstalk www\\.elasticbeanstalk && copy .npmrc www\\.npmrc && copy package.json www\\package.json && cd www && 7z a Archive.zip . && cd ..",
     "test": "echo \"Error: no test specified\" && exit 1"
